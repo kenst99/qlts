@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "id": "amteng85wxmng6",
+      "type": "Đất",
+      "name": "Thuý Liễu",
+      "image": null,
+      "location": "Bạch Đằng",
+      "mortgage": {
+        "active": true,
+        "where": "Vietcom",
+        "debt": 1000000000,
+        "payment": 10000000,
+        "period": "Tháng",
+        "dueDate": "2026-08-13"
+      },
+      "shared": {
+        "active": true,
+        "percent": 50
+      },
+      "renting": {
+        "active": true,
+        "tenantName": "A quốc",
+        "tenantPhone": "0545457575",
+        "rentAmount": 45000000,
+        "period": "Tháng",
+        "contractEnd": ""
+      },
+      "proofDocs": [],
+      "otherDocs": [],
+      "notes": "",
+      "createdAt": 1788024212564
+    }
+  ]
+}
